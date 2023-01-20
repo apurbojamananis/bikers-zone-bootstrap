@@ -1,3 +1,14 @@
 * {
   font-family: "Poppins", sans-serif;
 }
+
+.banner-bz {
+  min-height: 80vh;
+}
+
+.bg-bz-banner {
+  background-image: url(../images/bg-shape.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-position-y: 0%;
+}
